@@ -28,14 +28,17 @@ public class MainActivity extends AppCompatActivity {
     public void updateView( )
     {
         TextView amountTV = ( TextView ) findViewById( R.id.amount );
-        amountTV.setText( mortgage.getFormattedAmount( ) );
+        amountTV.setText( "" + mortgage.getFormattedAmount( ) );
 
         TextView yearsTV = ( TextView ) findViewById( R.id.years );
         yearsTV.setText( "" + mortgage.getYears( ) );
 
-        TextView monthlyTV = ( TextView ) findViewById( R.id.monthly_pay );
-        monthlyTV.setText( mortgage.formattedMonthlyPayment() );
+        TextView rateTV = ( TextView ) findViewById( R.id.rate );
+        rateTV.setText( "" + mortgage.getRate() );
 
+        TextView monthlyTV = ( TextView ) findViewById( R.id.monthly_pay );
+        monthlyTV.setText( "" + mortgage.formattedMonthlyPayment() );
+        
         TextView totalTV = ( TextView ) findViewById( R.id.total_pay );
         totalTV.setText( "" + mortgage.formattedTotalPayment() );
 
