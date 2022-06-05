@@ -5,3 +5,5 @@ This is a github for all of the labs I did in CECS 453 with Phuong Nguyen Summer
 Lab 1 - Tip Calculator App
 
 Lab 2 - Mortgage App
+
+Lab 3 - Tic Tac Toe App
