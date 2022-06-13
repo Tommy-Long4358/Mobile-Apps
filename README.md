@@ -6,4 +6,8 @@ Lab 1 - Tip Calculator App
 
 Lab 2 - Mortgage App
 
-Lab 3 - Tic Tac Toe App
+Lab 3 - Mortage App w/ Transitions
+
+Lab 4 - Tic Tac Toe App
+
+Lab 5 - Candy Store App
