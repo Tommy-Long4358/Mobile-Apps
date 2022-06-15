@@ -11,3 +11,5 @@ Lab 3 - Mortage App w/ Transitions
 Lab 4 - Tic Tac Toe App
 
 Lab 5 - Candy Store App
+
+Lab 6 - Hangman App
