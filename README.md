@@ -13,3 +13,5 @@ Lab 4 - Tic Tac Toe App
 Lab 5 - Candy Store App
 
 Lab 6 - Hangman App
+
+Lab 7 - Photo Camera App
