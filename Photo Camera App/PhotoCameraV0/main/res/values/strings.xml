@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoCameraV0</string>
+    <string name="take_picture">TAKE PICTURE</string>
+    <string name="email">EMAIL</string>
+</resources>
