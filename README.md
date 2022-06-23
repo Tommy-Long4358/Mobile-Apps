@@ -17,3 +17,5 @@ Lab 6 - Hangman App
 Lab 7 - Photo Camera App
 
 Lab 8 - Web Content App
+
+Lab 9 - Web Service App
