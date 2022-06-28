@@ -19,3 +19,5 @@ Lab 7 - Photo Camera App
 Lab 8 - Web Content App
 
 Lab 9 - Web Service App
+
+Lab 10 - GPS and Location Services App
